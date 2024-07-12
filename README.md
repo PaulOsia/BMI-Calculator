@@ -4,6 +4,8 @@ This is a simple BMI (Body Mass Index) Calculator web application built using Py
 Project Structure
 The project consists of the following files:
 
+
+#
 app.py: This is the main Python script that contains the Flask application. It handles the server-side calculations and serves the web pages.
 templates/: This folder contains the HTML templates used for rendering the user interface. It includes two templates:
 index.html: The main page of the BMI calculator where users can enter their weight and height.
